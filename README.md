@@ -58,6 +58,13 @@ cd weather-monitoring-application
    ```
    - The frontend server will start running on `http://localhost:3000`.
 
+### **4. Running Tests**
+- To run the test cases for the backend, navigate to the root of the project (`weather-monitoring-application`) and run:
+  ```bash
+  npm test
+  ```
+  - This will execute the test cases and display the results in the terminal.
+
 ## **Usage**
 - **Weather Dashboard**: Access the dashboard on `http://localhost:3000` to view real-time weather data, daily summaries, forecast summaries, alerts, and trend charts.
 - **Weather Data**: Displays average, maximum, minimum temperatures, humidity, wind speeds, and dominant weather condition.
@@ -72,9 +79,5 @@ cd weather-monitoring-application
 
 ## **Contributing**
 Feel free to open issues or submit pull requests for improvements and additional features.
-
-
-
----
 
 
